@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "pwd\n"
+pwd 0-current_working_directory
