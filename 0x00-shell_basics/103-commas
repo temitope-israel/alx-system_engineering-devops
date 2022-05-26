@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -p -m -v \n
+ls -a -m -p -v <<EOF
