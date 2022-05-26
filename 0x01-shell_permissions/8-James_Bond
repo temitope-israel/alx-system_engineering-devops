@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug-rwx hello << EOF
+chmod 007 hello << EOF
