@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami
+echo -e 'whoami\n'
