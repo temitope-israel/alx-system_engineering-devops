@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 751 hello <<EOF
+chmod 444 hello <<EOF
