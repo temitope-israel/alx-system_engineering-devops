@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..z}{a..z} | fmt -w 2 | sort | grep -v "oo" | tail -315 | head -c 64
