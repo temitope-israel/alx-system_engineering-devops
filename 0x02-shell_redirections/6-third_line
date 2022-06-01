@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n iacta | grep -i "3" | tr -d "3" 
+cat -n iacta | head -3 | tail -i 
